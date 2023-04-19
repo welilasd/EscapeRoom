@@ -1,3 +1,3 @@
 # EscapeRoom
 
-This is a repository for a VR Escape Room - Toy Store.
+This is a repository for a VR Escape Room - The Toy Store.
